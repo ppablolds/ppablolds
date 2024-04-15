@@ -3,10 +3,10 @@
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablo-Lima-Da-Silva)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pablo-Lima-Da-Silva&show_icons=true&theme=dark"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pablo-Lima-Da-Silva&show_icons=true&theme=radical"/>
 </a>
 <a style="margin-right: 20px;" href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pablo-Lima-Da-Silva&layout=compact&langs_count=8&card_width=200&show_icons=true&theme=dark"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pablo-Lima-Da-Silva&layout=compact&langs_count=8&card_width=200&show_icons=true&theme=radical"/>
 </a>
 
 <div style="display: inline_block; padding-top: 20px;"><br>
