@@ -6,6 +6,10 @@
 
 ##
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ppablolds&bg_color=141321&color=fe428e&line=fe428e&point=0a9fef&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+##
+
 <div style="display: flex; flex-direction: row; widht: 100%;">
 
 <span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppablolds&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</span>
@@ -33,11 +37,3 @@
 <img align="left"  height="80" width="80" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg">
 
 </div>
-
-<br /> 
-<br />
-<br /> 
-
-##
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ppablolds&bg_color=141321&color=fe428e&line=fe428e&point=0a9fef&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
