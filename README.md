@@ -6,7 +6,7 @@
 
 ##
 
-<div style="display: flex; widht: 100%;">
+<div style="display: flex; flex-direction: row; widht: 100%;">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppablolds&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
