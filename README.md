@@ -20,20 +20,12 @@
 
 ### Main skills:
 <div align="left"> 
+<img align="left" height="84" width="84" src="https://devicon-website.vercel.app/api/java/original-wordmark.svg">
+  
 <img align="left" height="84" width="84" src="https://devicon-website.vercel.app/api/javascript/plain.svg">
 
 <img align="left" height="80" width="80" src="https://devicon-website.vercel.app/api/typescript/original.svg">
 
 <img align="left"  height="80" width="80" src="https://devicon-website.vercel.app/api/nodejs/plain.svg">
-
-<img align="left"  height="80" width="80" src="https://devicon-website.vercel.app/api/react/original.svg">
-
-<img align="left"  height="80" width="80" src="https://devicon-website.vercel.app/api/nextjs/line.svg?color=%23FFFFFF">
-
-<img align="left"  height="80" width="80" src="https://devicon-website.vercel.app/api/html5/original.svg">
-
-<img align="left"  height="80" width="80" src="https://devicon-website.vercel.app/api/css3/original.svg">
-
-<img align="left"  height="80" width="80" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg">
 
 </div>
