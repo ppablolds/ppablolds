@@ -8,20 +8,10 @@
 
 ### Main skills:
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://devicon-website.vercel.app/api/java/original-wordmark.svg">
 
-<img align="left"  height="80" width="80" src="https://devicon-website.vercel.app/api/nodejs/plain.svg">
-  
-<img align="left" height="84" width="84" src="https://devicon-website.vercel.app/api/javascript/plain.svg">
-
-<img align="left" height="80" width="80" src="https://devicon-website.vercel.app/api/typescript/original.svg">
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongodb,nodejs,express,react,tailwind&perline=4)](https://skillicons.dev)
 
 </div>
-
-<br />
-<br />
-<br />
-<br />
 
 <br />
 
