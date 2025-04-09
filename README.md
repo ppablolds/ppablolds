@@ -15,4 +15,9 @@
 
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppablolds&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+<div style="display: flex; border: 1px solid red;">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ppablolds&theme=synthwave) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ppablolds&theme=synthwave)
+
+</div>
