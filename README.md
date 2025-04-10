@@ -1,14 +1,10 @@
-
-<br />
-<br />
-
+# __Welcome to my GitHub__
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=500&color=FE428E&random=false&width=435&lines=Hi%2C+My+name+is+Pablo!;I+From+Brazil;I'm+a+Back+End+developer;)](https://git.io/typing-svg)
 
 ##
-
-### Main skills:
-<div align="left"> 
-
+<div align="center"> 
+<span style="font-size:24px">Main skills</span>
+  
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongodb,nodejs,express,react,tailwind&perline=4)](https://skillicons.dev)
 
 </div>
