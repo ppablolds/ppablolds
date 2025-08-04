@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Bem-vindo(a) ao meu espaço no GitHub! Aqui você vai encontrar alguns dos meus projetos, estudos e experimentos (alguns deram certo... outros nem tanto, mas tá tudo valendo, né? 😅)<br><br>- 🔭 Eu trabalho com Java e seu ecossistema<br>- 📚 Atualmente estudando sobre Inteligência artificial<br>- ⚡ No meu tempo livre gosto de ler livros e jogar</p>
+<p align="left">Bem-vindo(a) ao meu espaço no GitHub! Aqui você vai encontrar alguns dos meus projetos, estudos e experimentos (alguns deram certo... outros nem tanto, mas tá tudo valendo, né? 😅)<br><br>- 🔭 Eu trabalho com Java e seu ecossistema<br>- 📚 Atualmente cursando ciência da computação e estudando IA<br>- ⚡ No meu tempo livre gosto de ler livros e práticar esportes</p>
 
 ###
 
@@ -49,6 +49,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
